@@ -1,5 +1,5 @@
 Sorting Algorithms in C 🧮🚀
-Welcome to the Sorting Playground! 🎢 This repository is your one-stop destination for exploring and understanding various sorting algorithms in C. Whether you're a beginner or a coding wizard, these implementations will help you master the art of arranging numbers in order—because chaos is fun, but sorted chaos is better! 😎
+This repository give an understanding of various sorting algorithms in C. 
 
 📌 What's Inside?
 
@@ -15,6 +15,3 @@ Welcome to the Sorting Playground! 🎢 This repository is your one-stop destina
 🪣 Bucket Sort – Sorting by throwing numbers into buckets.
 🤔 Why Sorting?
 Sorting is not just about arranging numbers—it's the foundation of many computer science concepts, from searching to optimizing algorithms. Whether you're preparing for coding interviews or just love algorithmic challenges, these implementations will sharpen your skills.
-
-
-If you find this repo helpful, give it a ⭐ and let’s keep sorting the world, one algorithm at a time! 🚀

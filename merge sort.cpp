@@ -17,7 +17,7 @@ void merge(int arr[], int start, int mid, int end){
 		B[k++]=arr[j++];
 	}
 	k=0;
-	for(int i=start;i<=end;++i){
+	for(int i=start;i<=end;++i){ // since we are returning only arr, and not B, we are assigning values of arr B into arr
 		arr[i]=B[k++];
 	}
 }

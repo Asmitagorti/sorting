@@ -6,10 +6,8 @@ int Merge(int A[], int low , int high, int pivot){
     while(s < e){
         while(A[s] <= key){ // Move s forward while it's less than or equal to key
             s++;
-            s++;
         }
-        while(A[e] > key){ // Move s forward while it's less than or equal to key
-            s++;
+        while(A[e] > key){ // Move e backward while it's greater than or equal to key
             e--;
         }
         if(s < e){ // when found, it swaps both of them, to maintain order
